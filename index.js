@@ -1,1 +1,1 @@
-function = Scooter() 
+function = Scooter(year) 
