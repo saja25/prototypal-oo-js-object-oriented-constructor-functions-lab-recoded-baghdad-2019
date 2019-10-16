@@ -3,7 +3,7 @@ function Scooter(year,color,model) {
   this.color=color;
   this.model=model;
 }
-function (year,color,model) {
+function Driver (,,) {
   this.year=year;
   this.color=color;
   this.model=model;
